@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amit Chaurasia</h1>
 
 <h3 align="center">
-B.Tech (CSE - AIML) | Full Stack Developer | Data Analyst | ML Enthusiast
+B.Tech (CSE - AIML) | Full Stack Developer | ML Enthusiast
 </h3>
 
 <img align="right" alt="Coding" width="400"
