@@ -1,50 +1,90 @@
-
 <h1 align="center">Hi 👋, I'm Amit Chaurasia</h1>
 
 <h3 align="center">
-B.Tech (CSE - AIML) | Full Stack Developer | ML Enthusiast
+B.Tech CSE (AIML) Graduate • Full Stack Developer • Generative AI & Agentic AI Learner
 </h3>
 
-<img align="right" alt="Coding" width="400"
-src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amit77t&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=amit77t&label=Profile%20views&color=0e75b6&style=flat"
-alt="amit77t" />
+<p align="center">
+ <img align="right" alt="Coding" width="380"
+src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
+
 </p>
 
 <p>
-I'm a B.Tech CSE-AIML student interested in building software applications,
-analyzing data, creating interactive dashboards, and exploring machine learning.
+I'm a <b>B.Tech CSE-AIML graduate</b> interested in building full-stack applications
+and exploring the world of <b>Generative AI and Agentic AI</b>.
 </p>
 
-- 📫 How to reach me: **amitchaurasia774@gmail.com**
-- 🚀 My Portfolio: **https://amit778.netlify.app/**
+<p>
+I enjoy learning by building, experimenting with new technologies, and turning
+concepts into practical projects.
+</p>
+
+- 🔭 Currently learning <b>Generative AI & Agentic AI with Python</b>
+- 🐍 Exploring <b>Pydantic, Async Python, LLMs, RAG & AI Agents</b>
+- 💻 Experienced with <b>React, Node.js, Express & MongoDB</b>
+- 🤖 Interested in <b>LLMs, AI Applications and Intelligent Agents</b>
+- 🌐 Portfolio: <a href="https://amit778.netlify.app/">amit778.netlify.app</a>
+- 📫 Email: <b>amitchaurasia774@gmail.com</b>
 
 ---
 
-<h3 align="left">📊 Data Analytics</h3>
+<h2>🤖 Current Focus</h2>
 
-<p align="left">
-<b>SQL</b> •
-<b>MySQL</b> •
-<b>Microsoft Excel</b> •
-<b>Power BI</b> •
-<b>DAX</b> •
-<b>Power Query</b> •
-<b>Python</b> •
-<b>Pandas</b> •
-<b>NumPy</b> •
-<b>Matplotlib</b> •
-<b>Data Cleaning</b> •
-<b>EDA</b> •
-<b>Data Visualization</b> •
-<b>KPI Analysis</b>
+<p>
+I'm currently building my foundation in Generative AI and Agentic AI.
 </p>
 
-<h3 align="left">💻 Full Stack Development</h3>
+<p align="center">
 
-<p align="left">
+<b>Python</b>
+&nbsp; → &nbsp;
+<b>Pydantic</b>
+&nbsp; → &nbsp;
+<b>Async Python</b>
+&nbsp; → &nbsp;
+<b>LLMs</b>
+&nbsp; → &nbsp;
+<b>RAG</b>
+&nbsp; → &nbsp;
+<b>AI Agents</b>
+&nbsp; → &nbsp;
+<b>LangGraph</b>
+&nbsp; → &nbsp;
+<b>MCP</b>
+
+</p>
+
+---
+
+<h2>🧠 AI & Machine Learning</h2>
+
+<p>
+<b>Python</b> •
+<b>Pydantic</b> •
+<b>LLMs</b> •
+<b>Prompt Engineering</b> •
+<b>Generative AI</b> •
+<b>RAG</b> •
+<b>Vector Databases</b> •
+<b>LangChain</b> •
+<b>LangGraph</b> •
+<b>AI Agents</b> •
+<b>MCP</b> •
+<b>Pandas</b> •
+<b>NumPy</b> •
+<b>Scikit-learn</b>
+</p>
+
+---
+
+<h2>💻 Full Stack Development</h2>
+
+<p>
 <b>JavaScript</b> •
 <b>React</b> •
 <b>Node.js</b> •
@@ -52,106 +92,156 @@ analyzing data, creating interactive dashboards, and exploring machine learning.
 <b>MongoDB</b> •
 <b>HTML</b> •
 <b>CSS</b> •
-<b>Bootstrap</b>
+<b>REST APIs</b> •
+<b>JWT</b>
 </p>
 
-<h3 align="left">🤖 Machine Learning</h3>
+---
 
-<p align="left">
-<b>Python</b> •
+<h2>🛠️ Tools & Technologies</h2>
+
+<p>
+<b>Git</b> •
+<b>GitHub</b> •
+<b>Docker</b> •
+<b>VS Code</b> •
+<b>Postman</b> •
+<b>Jupyter Notebook</b> •
+<b>Vite</b> •
+<b>npm</b>
+</p>
+
+---
+
+<h2>📚 Generative AI Learning Journey</h2>
+
+<p>
+This repository documents my hands-on journey into Generative AI and Agentic AI.
+</p>
+
+<ul>
+  <li>🐍 Advanced Python & Pydantic</li>
+  <li>⚡ Async Python & Concurrency</li>
+  <li>🧠 LLM Fundamentals</li>
+  <li>🔌 OpenAI & Gemini APIs</li>
+  <li>✍️ Prompt Engineering</li>
+  <li>📚 Retrieval-Augmented Generation (RAG)</li>
+  <li>🗄️ Vector Databases</li>
+  <li>🔗 LangChain</li>
+  <li>🕸️ LangGraph</li>
+  <li>🤖 AI Agents</li>
+  <li>🔌 Model Context Protocol (MCP)</li>
+  <li>🐳 Docker & AI Deployment</li>
+</ul>
+
+<p>
+👉 <a href="https://github.com/amit77t/Full-stack-generative-and-Agentic-AI-with-python">
+View my Generative AI & Agentic AI learning repository
+</a>
+</p>
+
+---
+
+<h2>📊 Data & Analytics Background</h2>
+
+<p>
+Alongside development and AI, I have experience working with data analysis and
+visualization.
+</p>
+
+<p>
+<b>SQL</b> •
+<b>MySQL</b> •
+<b>Excel</b> •
+<b>Power BI</b> •
+<b>DAX</b> •
+<b>Power Query</b> •
 <b>Pandas</b> •
 <b>NumPy</b> •
-<b>Scikit-learn</b> •
+<b>Matplotlib</b> •
+<b>EDA</b> •
+<b>Data Visualization</b>
+</p>
+
+---
+
+<h2>📈 My Learning Journey</h2>
+
+<p align="center">
+
+<b>Programming</b>
+<br>
+↓
+<br>
+<b>Full Stack Development</b>
+<br>
+↓
+<br>
 <b>Machine Learning</b>
-</p>
+<br>
+↓
+<br>
+<b>Generative AI</b>
+<br>
+↓
+<br>
+<b>RAG & LLM Applications</b>
+<br>
+↓
+<br>
+<b>Agentic AI</b>
+<br>
+↓
+<br>
+<b>Building Intelligent Applications 🚀</b>
 
-<h3 align="left">🛠️ Programming & Other Skills</h3>
-
-<p align="left">
-<b>C</b> •
-<b>C++</b> •
-<b>Java</b> •
-<b>Git</b> •
-<b>GitHub</b>
 </p>
 
 ---
 
-<h3 align="left">📈 Data Analytics Projects</h3>
-
-- 📊 <b>Customer Churn Analysis using Power BI</b>
-- 👥 <b>HR Analytics KPI Dashboard using Power BI</b>
-- 🗄️ <b>SQL / MySQL Data Analysis Projects</b>
-- 📑 <b>Excel Data Analysis Projects</b>
-- 🐍 <b>Python & Pandas Data Analysis Projects</b>
-
-<h3 align="left">💻 Development Projects</h3>
-
-- Full Stack / MERN Applications
-- Backend Development Projects
-- REST API Projects
-
-<h3 align="left">🤖 Machine Learning Projects</h3>
-
-- Machine Learning & Python Projects
-- Exploratory Data Analysis Projects
-
----
-
-<h3 align="left">🔗 Connect with me:</h3>
+<h2>🔗 Connect With Me</h2>
 
 <p align="left">
 
-<a href="https://twitter.com/amitchaura76134" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-alt="Twitter" height="30" width="40" />
+<a href="https://www.linkedin.com/in/amit-chaurasia-0b997629/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/amit-chaurasia-0b9976290" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="LinkedIn" height="30" width="40" />
+<a href="https://github.com/amit77t" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-alt="Kaggle" height="30" width="40" />
+<a href="https://amit778.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/amitchaurasia774" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-alt="HackerRank" height="30" width="40" />
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/amitchaurasia774" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-alt="GeeksforGeeks" height="30" width="40" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Statistics</h3>
+<h2>📊 GitHub Statistics</h2>
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=amit77t&show_icons=true&locale=en&layout=compact"
-alt="amit77t" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amit77t&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit77t&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=amit77t&show_icons=true&locale=en"
-alt="amit77t" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amit77t&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=amit77t&"
-alt="amit77t" />
+---
+
+<h3 align="center">⚡ Learn • Build • Experiment • Improve</h3>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
