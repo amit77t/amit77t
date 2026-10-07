@@ -165,50 +165,12 @@ visualization.
 
 ---
 
-<h2>📈 My Learning Journey</h2>
-
-<p align="center">
-
-<b>Programming</b>
-<br>
-↓
-<br>
-<b>Full Stack Development</b>
-<br>
-↓
-<br>
-<b>Machine Learning</b>
-<br>
-↓
-<br>
-<b>Generative AI</b>
-<br>
-↓
-<br>
-<b>RAG & LLM Applications</b>
-<br>
-↓
-<br>
-<b>Agentic AI</b>
-<br>
-↓
-<br>
-<b>Building Intelligent Applications 🚀</b>
-
-</p>
-
----
-
 <h2>🔗 Connect With Me</h2>
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/amit-chaurasia-0b997629/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/amit77t" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://amit778.netlify.app/" target="_blank">
