@@ -142,29 +142,6 @@ View my Generative AI & Agentic AI learning repository
 
 ---
 
-<h2>📊 Data & Analytics Background</h2>
-
-<p>
-Alongside development and AI, I have experience working with data analysis and
-visualization.
-</p>
-
-<p>
-<b>SQL</b> •
-<b>MySQL</b> •
-<b>Excel</b> •
-<b>Power BI</b> •
-<b>DAX</b> •
-<b>Power Query</b> •
-<b>Pandas</b> •
-<b>NumPy</b> •
-<b>Matplotlib</b> •
-<b>EDA</b> •
-<b>Data Visualization</b>
-</p>
-
----
-
 <h2>🔗 Connect With Me</h2>
 
 <p align="left">
